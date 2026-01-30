@@ -1,19 +1,127 @@
-<!---
-nizhantiw/nizhantiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Ghost
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nizhantiw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nizhantiw&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nizhantiw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a **Software Development Engineer (SDE)** with ~2 years of hands-on experience building **production-grade SaaS products**, primarily at the intersection of **frontend engineering, data analytics, and applied AI**. I currently pursue my **Master’s at IIT Patna** while actively working on real-world systems used by teams and customers.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nizhantiw&theme=buddhism&no-frame=false&no-bg=false&margin-w=4)
+I don’t just build features — I design **systems**, think in **trade-offs**, and care deeply about **impact, scale, and correctness**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nizhantiw&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Work On
+
+### 🧠 Data & AI Systems
+
+* Unified data analytics platforms (end-to-end)
+* NL2SQL, schema understanding, and execution-based feedback loops
+* Time-series forecasting for e-commerce
+* Embedding-based classification & retrieval systems
+* LLM-powered document intelligence pipelines
+
+### 🎨 Frontend Engineering
+
+* Production dashboards using **React + TypeScript + Tailwind CSS**
+* High-performance, reusable component systems
+* Complex UIs: schema mapping, permission trees, formula engines
+* Data visualizations using **ApexCharts**
+
+### ☁️ Cloud & Infra (Hands-on)
+
+* GCP-based deployments
+* CI/CD pipelines (GitHub + cloud)
+* Kubernetes fundamentals & monitoring (Prometheus)
+* Error tracking & observability (Sentry)
+
+---
+
+## 🧩 Flagship Projects
+
+### 🔹 PatramAI — Production Document Intelligence SaaS
+
+**What & Why**
+Built to automate document understanding and extraction for real businesses, reducing manual effort and operational errors.
+
+**How**
+
+* Designed frontend dashboards for document workflows
+* Built embedding-based schema classification
+* Integrated LLMs for structured extraction
+* Focused on reliability, observability, and performance
+
+**Outcome**
+
+* Deployed as a live SaaS product
+* Used in real production environments
+
+🔗 [https://patramai.com](https://patramai.com)
+
+---
+
+### 🔹 Unified Data Analytics Platform (SaaS)
+
+* Built a formula engine for user-defined metrics
+* Designed schema-mapping UIs for CSV ingestion
+* Worked on multi-tenancy and permission management
+* Focused on frontend architecture + data correctness
+
+---
+
+### 🔹 AI Research & Experiments
+
+* NL2SQL with execution-based learning loops
+* Exploring CoT, RLHF-style refinement
+* Targeting publication-quality experimentation (SIGMOD / VLDB / arXiv)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+* TypeScript, JavaScript, Python, C++
+
+**Frontend**
+
+* React, Next.js, Tailwind CSS
+
+**Backend / Data**
+
+* Node.js, SQL (Postgres / BigQuery), MongoDB
+
+**AI / ML**
+
+* LLMs (GPT-style, LLaMA), embeddings, RAG pipelines
+
+**Infra & Tooling**
+
+* GCP, Docker, Kubernetes, CI/CD
+* Sentry, Prometheus
+
+---
+
+## 🧠 How I Think
+
+* I optimize for **long-term maintainability**, not shortcuts
+* I value **clarity over cleverness**
+* I like problems where product, data, and engineering intersect
+* I’m comfortable owning systems end-to-end
+
+---
+
+## 📈 Beyond Work
+
+* Quant-focused mindset (targeting 30%+ CAGR strategies)
+* Building learning platforms & developer tools
+* Founder of **learnwhy.dev** — an interactive platform for learning core CS concepts with visualizations, simulations, and hands-on modules
+* Helping juniors & peers — knowledge compounds
+
+---
+
+## 📬 Let’s Connect
+
+* GitHub: you’re already here 🙂
+* LearnWhy: [https://learnwhy.dev](https://learnwhy.dev)
+* LinkedIn: https://www.linkedin.com/in/nishant-iitp/
+* Portfolio / Blog: https://nishant-kumar-portfolio.vercel.app/
+
+---
+
+> *"Strong systems come from clear thinking, not just strong code."*
