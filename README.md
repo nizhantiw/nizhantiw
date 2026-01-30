@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ghost
+# 👋 Hi, I'm Nishant Kumar
 
 I'm a **Software Development Engineer (SDE)** with ~2 years of hands-on experience building **production-grade SaaS products**, primarily at the intersection of **frontend engineering, data analytics, and applied AI**. I currently pursue my **Master’s at IIT Patna** while actively working on real-world systems used by teams and customers.
 
